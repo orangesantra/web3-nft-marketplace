@@ -1,0 +1,1 @@
+1. Why create the mint function function in marketplace.sol if it's already exist in NFT.sol
